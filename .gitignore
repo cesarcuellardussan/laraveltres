@@ -1,5 +1,0 @@
-# Ignorar contenido de la carpeta mysql
-mysql/*
-
-# Permitir la inclusión de la carpeta mysql vacía
-!mysql/
